@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dair66
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on all sorts of projects, the more experiance that i am able to get the better.
