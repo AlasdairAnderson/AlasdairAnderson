@@ -20,7 +20,7 @@ I am a professional working within the automotive industry but I have a passion 
 
 #
 ### 📊 Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlasdairAnderson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alasdair Anderson's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasdairAnderson&layout=compact&theme=donut&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlasdairAnderson&show_icons=true&include_all_commits=true&theme=donut&hide_border=true" alt="Alasdair Anderson's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasdairAnderson&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <details> 
