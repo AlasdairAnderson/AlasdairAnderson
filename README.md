@@ -1,5 +1,4 @@
 # Alasdair Anderson
-**`Life Long Learner`**
 
 I am a professional working within the automotive industry with a passion for everthing digital. I am currently on a journey to learn how to code with the aim to land a job at a software company. My passions for software comes from identifying problems and looking for solutions to solve them. I am always up for a challange to improve my skills, building on pervious experience.
 
@@ -25,5 +24,5 @@ I am a professional working within the automotive industry with a passion for ev
 
 <details> 
   <summary><h3>🗻My Coding Journey</summary>
-   I started my coding journey at school with computer science in secondary school. After struggling to grab the basic fundamentals in lessons due some terrible teaching, I believed that I was terrible at coding and that I would never get it. I ended up failing my exams and dropped computer science as a subject, thinking that it was just not for me. Four years passed, and I had a feeling that I wanted to build something. I kept imagining applications that I could create, with the potential to improve people's lives. So in 2023, I started my coding journey again with Harvard's "CS50 Introduction to Computer Science" and I fell in love. I finally understood concepts that seemed so complicated to me back in school. The combination of learning and problem solving had me hooked, and I never looked back. After completing and submitting my final project, I have started to look for new problems to take on that will grow my skill set and build on my knowledge. I look forward to all the challenges that I will face on this journey, but I know that I will get to my destination as long as I keep on going. 
+  I am currently learning to code in my spare time with completeing Harvads CS50 last year and currently going through the full stack dev course with codecademy. I hope to build some cool projects in the furture.
 </details>
