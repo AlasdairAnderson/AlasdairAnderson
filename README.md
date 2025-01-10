@@ -1,6 +1,6 @@
 # Alasdair Anderson
 
-I am the digital lead for BMW UK Fire and Security. With a focus on Power Platform development with an intrest in Power Apps, Power Bi, and Sharepoint. Have developed 7 internal power apps that have been deployed to 5 sites accross the UK which have been collectively used 185,000 times. Looking to expand skills into HTML, CSS, JavaScript and React to be able to make webapps in the future.
+I am the digital lead for BMW UK Fire and Security. With a focus on Power Platform development with an interest in Power Apps, Power Bi, and Sharepoint. Have developed 7 internal power apps that have been deployed to 5 sites across the UK which have been collectively used 185,000 times. Looking to expand skills into HTML, CSS, JavaScript and React to be able to make webapps in the future.
 
 ---
 
