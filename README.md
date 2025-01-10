@@ -21,8 +21,3 @@ I am the digital lead for BMW UK Fire and Security. With a focus on Power Platfo
 ### 📊 Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlasdairAnderson&show_icons=true&include_all_commits=true&theme=donut&hide_border=true" alt="Alasdair Anderson's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasdairAnderson&layout=compact" /></a> |
 | ------------- | ------------- |
-
-<details> 
-  <summary><h3>🗻My Coding Journey</summary>
-  I am currently learning to code in my spare time with completeing Harvads CS50 last year and currently going through the full stack dev course with codecademy. I hope to build some cool projects in the furture.
-</details>
