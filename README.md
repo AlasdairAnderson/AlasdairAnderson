@@ -1,6 +1,6 @@
 # Alasdair Anderson
 
-I am a professional working within the automotive industry with a passion for everthing digital. I am currently on a journey to learn how to code with the aim to land a job at a software company. My passions for software comes from identifying problems and looking for solutions to solve them. I am always up for a challange to improve my skills, building on pervious experience.
+I am the digital lead for BMW UK Fire and Security. With a focus on Power Platform development with an intrest in Power Apps, Power Bi, and Sharepoint. Have developed 7 internal power apps that have been deployed to 5 sites accross the UK which have been collectively used 185,000 times. Looking to expand skills into HTML, CSS, JavaScript and React to be able to make webapps in the future.
 
 ---
 
